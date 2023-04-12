@@ -1,0 +1,12 @@
+{
+  "name": "framework-llvm-mos-sdk",
+  "version": "0.1.0",
+  "description": "Default library for LLVM MOS",
+  "keywords": [
+    "framework",
+    "hal",
+    "llvm",
+    "mos"
+  ],
+  "homepage": "https://llvm-mos.org/wiki/Welcome",
+}
